@@ -42,6 +42,9 @@ Polynomial feature transformation
 Model evaluation metrics like R2
 
 # Results
+- Smoking status is the most significant driver of insurance charges  
+- Higher BMI values are associated with increased charges, especially among smokers  
+- Charges tend to increase with age  
 
 # Visualizations
 
